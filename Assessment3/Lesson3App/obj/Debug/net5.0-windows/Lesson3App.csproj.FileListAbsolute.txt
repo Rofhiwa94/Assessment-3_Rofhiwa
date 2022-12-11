@@ -1,0 +1,38 @@
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.exe
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.deps.json
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.runtimeconfig.json
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.runtimeconfig.dev.json
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.dll
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.pdb
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.LoginForm.resources
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.WelcomeForm.resources
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.csproj.GenerateResource.cache
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.AssemblyInfo.cs
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.dll
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\refint\Lesson3App.dll
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.pdb
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.genruntimeconfig.cache
+C:\Users\Windows 10\Downloads\Assessment2\Lesson3App\obj\Debug\net5.0-windows\ref\Lesson3App.dll
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.exe
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.deps.json
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.runtimeconfig.json
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.runtimeconfig.dev.json
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.dll
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\bin\Debug\net5.0-windows\Lesson3App.pdb
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.csproj.AssemblyReference.cache
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.LoginForm.resources
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.WelcomeForm.resources
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.csproj.GenerateResource.cache
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.AssemblyInfoInputs.cache
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.AssemblyInfo.cs
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.csproj.CoreCompileInputs.cache
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.dll
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\refint\Lesson3App.dll
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.pdb
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\Lesson3App.genruntimeconfig.cache
+C:\Users\Rofhiwa\Desktop\Assessment2\Lesson3App\obj\Debug\net5.0-windows\ref\Lesson3App.dll
